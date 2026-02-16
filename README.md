@@ -56,7 +56,7 @@ At the **Universidad Nacional de Colombia – Medellín Campus, Master’s in An
 Python · MATLAB · QGIS · HEC-RAS · SQL · Git · Power BI
 
 ## 📫 Contact
-- LinkedIn: ([add link](https://www.linkedin.com/in/carlosg-ing-hidraulica/))
+- LinkedIn: ([LinkedIn](https://www.linkedin.com/in/carlosg-ing-hidraulica/))
 - Email: (caegomezco@unal.edu.co)
 
 
