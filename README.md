@@ -15,6 +15,7 @@ I enjoy bridging physics-based models with data-driven approaches to build pract
 - Advanced data analytics and business intelligence tools
 
 ## 🧠 Background
+- [University projects](https://github.com/stars/caego/lists/university-projects)
 
 ### 🎓 Coursework  
 At the **Universidad Nacional de Colombia – Medellín Campus, Master’s in Analytics**
