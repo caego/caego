@@ -60,6 +60,9 @@ Python · MATLAB · QGIS · HEC-RAS · SQL · Git · Power BI
 - LinkedIn: ([LinkedIn](https://www.linkedin.com/in/carlosg-ing-hidraulica/))
 - Email: (caegomezco@unal.edu.co)
 
+## ⭐ Featured Projects
+- [University Projects](https://github.com/stars/caego/lists/university-projects) - Collection of academic projects from my Master's in Analytics program at Universidad Nacional de Colombia
+
 
 <!--
 **caego/caego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
