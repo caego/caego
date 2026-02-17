@@ -1,4 +1,4 @@
-## Hola / Hi there, I’m Carlos 👋
+## Hi there, I’m Carlos 👋
 
 Hydraulic engineer and data analytics enthusiast focused on numerical modeling, water resources systems, and AI applications in engineering.  
 I enjoy bridging physics-based models with data-driven approaches to build practical and interpretable solutions.
