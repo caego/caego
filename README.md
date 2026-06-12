@@ -64,6 +64,7 @@ Python · MATLAB · QGIS · HEC-RAS · SQL · Git · Power BI
 
 ### 📚 Currently Studying
 - [Series de Tiempo & Deep Learning](https://github.com/caego/series_de_tiempo_DeepLearning) - Projects exploring time series analysis and deep learning applications
+- - [train and deployment ML Forecast for PM2.5](https://github.com/silvi-30/AI-Bootcamp/tree/deployment) - AireVivo is an intelligent PM2.5 air quality monitoring platform combining XGBoost forecasting models with an AI assistant (powered by Groq LLM) for real-time predictions and health recommendations. Built as a pilot with simulated data, it's designed to scale with real-time meteorological APIs and Medellín air quality data for operational deployment.
 
 ### ⭐ Completed / Reference
 - [University Projects](https://github.com/stars/caego/lists/university-projects) - Collection of academic projects from my Master's in Analytics program at Universidad Nacional de Colombia
